@@ -8,6 +8,8 @@ A simple PHP package for image compression powered by FFMPEG.
 
 - PHP version from 5.4.* up to latest.
 
+- Operating System: Windows, Linux or Mac OS X.
+
 ## Install
 
 ### via Composer
