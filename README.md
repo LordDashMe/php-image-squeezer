@@ -2,7 +2,7 @@
 
 A simple PHP package for image compression powered by FFMPEG.
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/LordDashMe/php-image-squeezer.svg?style=flat-square)](https://packagist.org/packages/LordDashMe/php-image-squeezer) [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.0-8892BF.svg?style=flat-square)](https://php.net/) [![Build Status](https://img.shields.io/travis/LordDashMe/php-image-squeezer/master.svg?style=flat-square)](https://travis-ci.org/LordDashMe/php-image-squeezer) [![Coverage Status](https://img.shields.io/coveralls/LordDashMe/php-image-squeezer/master.svg?style=flat-square)](https://coveralls.io/github/LordDashMe/php-image-squeezer?branch=master)
+[![Latest Stable Version](https://img.shields.io/packagist/v/LordDashMe/php-image-squeezer.svg?style=flat-square)](https://packagist.org/packages/LordDashMe/php-image-squeezer) [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.4-8892BF.svg?style=flat-square)](https://php.net/) [![Build Status](https://img.shields.io/travis/LordDashMe/php-image-squeezer/master.svg?style=flat-square)](https://travis-ci.org/LordDashMe/php-image-squeezer) [![Coverage Status](https://img.shields.io/coveralls/LordDashMe/php-image-squeezer/master.svg?style=flat-square)](https://coveralls.io/github/LordDashMe/php-image-squeezer?branch=master)
 
 ## Requirement(s)
 
