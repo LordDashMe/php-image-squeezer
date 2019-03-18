@@ -39,10 +39,10 @@ $imageSqueezer->load();
 
 // Provide the source file path of the desire image
 // that will be compress later on.
-$imageSqueezer->setSourceFilePath('/source/path/filename');
+$imageSqueezer->setSourceFilePath('/path/source-filename');
 
 // Provide the output file path of the compressed image.
-$imageSqueezer->setOutputFilePath('/output/path/filename');
+$imageSqueezer->setOutputFilePath('/path/output-filename');
 
 // Execute the image compression.
 $imageSqueezer->compress();
